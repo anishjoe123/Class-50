@@ -1,0 +1,47 @@
+h1 
+    { 
+        color: brown; 
+    } 
+p,h2
+    {
+        text-align: center;
+    }
+
+/*
+* 
+    { 
+        border: solid; 
+    } 
+*/
+.head
+    {
+        color: green; 
+        display: flex; 
+        justify-content: space-between;
+    }
+
+.menu
+    {
+        color: grey;
+    }
+
+
+.grid
+    {
+        color: yellow;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+.item
+    {
+        color: rgb(84, 84, 218)
+    }
+
+.footer
+    {
+        color:lightcoral;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
